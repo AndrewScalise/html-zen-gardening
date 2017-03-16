@@ -711,7 +711,7 @@ Sidebar
 }
 .sidebar .design-selection nav ul li:nth-child(1) {
   background: #0d2c40;
-  margin-top: -29em;
+  margin-top: -19em;
   padding: 39em 1em 2em 1em;
 }
   @media (max-width: 53em) {
